@@ -48,6 +48,5 @@ OpenCore UEFI - 0.6.0
 1. Camera
 2. Wifi
 3. Battery Info
-4. Brightness
 
 
